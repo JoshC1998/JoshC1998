@@ -6,7 +6,7 @@ I’m learning: Cloud technologies and system design to enhance my full-stack ca
 I’m looking to collaborate on: Open-source projects or any innovative ideas related to web development and software engineering.
 Ask me about: JavaScript, Python, Java React, Flask, and SQL.
 How to reach me: LinkedIn
-Tools & Technologies
+Tools & Technologies : 
 Languages: Python, JavaScript, SQL, HTML, CSS
 Frameworks: Flask, React
 Database: MySQL, SQLite
