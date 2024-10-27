@@ -18,15 +18,11 @@ I'm a passionate Software Engineer with a strong foundation in Python, Java, and
 
 ## 💼 Work Experience
 - EMT-Basic, Certified First Responder 🚑
+- Patient Registration Specialist 
 
 ## 🌟 Projects
 - [Galactic Siege](https://github.com/JoshC1998/Galactic-Seige) - A Pygame project where players control a tank to shoot alien ships and survive as long as possible. 🛸
 - [Workout Tracker](https://github.com/JoshC1998/workout-tracker) - A full-stack gym-based web app that allows users to track workouts and visualize progress over time. 💪🏼
 - [Portfolio Website](https://joshua-cruz-portfolio.com/) - My personal portfolio showcasing my projects and skills. 🌐
 
-## 📈 GitHub Stats
-![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshC1998&show_icons=true&theme=radical)
 
----
-
-Feel free to tweak this to match your preferences or add any additional information you'd like!
