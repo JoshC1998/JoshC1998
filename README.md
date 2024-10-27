@@ -18,11 +18,8 @@ I'm a passionate Software Engineer with a strong foundation in Python, Java, and
 
 ## 💼 Work Experience
 - EMT-Basic, Certified First Responder 🚑
-- Patient Registration Specialist 
+- Patient Registration Specialist 🏥
 
 ## 🌟 Projects
-- [Galactic Siege]](https://github.com/JoshC1998/Galactic_Seige) - A Pygame project where players control a tank to shoot alien ships and survive as long as possible. 🛸
-- [Workout Tracker]((https://github.com/JoshC1998/PeakPerformance) - A full-stack gym-based web app that allows users to track workouts and visualize progress over time. 💪🏼
-- [Portfolio Website]((https://joshuacruzportfolio.netlify.app/) - My personal portfolio showcasing my projects and skills. 🌐
-
-
+- [Peak Performance](https://github.com/JoshC1998/PeakPerformance) - A full-stack gym-based web app that allows users to track workouts, log progress, submit lifts, and compete on a leaderboard. 💪🏼- [Portfolio Website](https://joshuacruzportfolio.netlify.app/) - My personal portfolio showcasing my projects and skills. 🌐
+- [Galactic Siege](https://github.com/JoshC1998/Galactic_Seige) - A Pygame project where players control a tank to shoot alien ships and survive as long as possible. 🛸
